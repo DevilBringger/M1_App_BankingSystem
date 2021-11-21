@@ -5,7 +5,7 @@
 |HT |sting	The inputs |equired | not given	Fai|l	Scenario Based
 |HT |ing	The inputs is|given by|he user to the |system	Pass	Boundary Based
 
-## High Level Test Plan
+## Low Level Test Plan
 | ID        | Description    | Feature  |  Result  | Type of Test
 |--------------|-----------|------------|-----------|------------|
 |LT |sting	The inputs |equired | not given	Fai|l	Scenario Based
