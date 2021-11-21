@@ -7,7 +7,8 @@ A brief description of what this project does and who it's for
 
 
 ## Defining our System
-![Uploading BankingSystem.PNG…]()
+![BankingSystem](https://user-images.githubusercontent.com/94440639/142771636-a8e82c27-263e-41c4-a938-a46d553ab5d3.PNG)
+
 ## Cost & Feature
 It's totally free of Cost
 ### Feature
