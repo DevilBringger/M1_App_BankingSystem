@@ -1,11 +1,11 @@
 # Test Plan
 ## High Level Test Plan
-| ID        | Description    | Feature  |  Result  | Type of Test
+| ID        | Description    | Feature  |  Result  | Type of Test|
 |HT         |-----------|------------|-----------|------------|
 |HT            |----------|-----------|------------|------------|
 |HT            |----------|-----------|------------|------------|
 ## Low Level Test Plan
-| ID        | Description    | Feature  |  Result  | Type of Test
+| ID        | Description    | Feature  |  Result  | Type of Test |
 |LT           |-----------|------------|-----------|------------|
 |LT             |-----------|----------|------------|	-----------|
 |LT             |-----------|----------|------------ |-----------|
