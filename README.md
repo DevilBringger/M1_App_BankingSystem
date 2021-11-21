@@ -12,7 +12,8 @@ The Banking Management System is an application for maintaining a person's accou
 | `4.Test_plan` | test plans |
 
 ## Requirments
-C
+* Visual Studio Code
+* C
 
 ## Clone this repository
 To clone and run this application, you'll need Git,
