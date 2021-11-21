@@ -37,6 +37,7 @@ This system gives output after taking user inputs which is done by implimenting 
 |--------------|-----------|------------|
 | HL 1| Taking Inputs from user     | Implimented      |
 |HL 2 | Display outputs  | Implimented      |
+|HL 3 | DataBase Connection  | Future work      |
 
 ## Low Level Requirment
 | ID        | Description    | #Status |
