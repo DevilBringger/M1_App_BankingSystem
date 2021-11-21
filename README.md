@@ -3,6 +3,14 @@
 ## Getting Started with Banking System
 The Banking Management System is an application for maintaining a person's account in a bank. In this project I tried to show the working of a banking account system and cover the basic functionality of a Bank Account Management System.
 
+## Folder structure
+| Folder | Description |
+| --- | ---|
+| `1.Requirements` | Project requirements |
+| `2.Design` | project UML diagrams |
+| `3.Implementation` | project implementation with code block |
+| `4.Test_plan` | test plans |
+
 ## Requirments
 C
 
