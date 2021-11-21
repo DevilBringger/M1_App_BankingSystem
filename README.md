@@ -9,5 +9,5 @@ C
 ## Clone this repository
 To clone and run this application, you'll need Git,
 gcc installed on your computer. 
-From your command line:
-a https://github.com/DevilBringger/M1_App_BankingSystem.git
+
+https://github.com/DevilBringger/M1_App_BankingSystem.git
