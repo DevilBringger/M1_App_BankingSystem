@@ -1,3 +1,9 @@
+3_Implementation/src/BankingSystem.h:32:5: warning: Obsolete function 'gets' called. It is recommended to use 'fgets' or 'gets_s' instead. [getsCalled]
+    gets(usedID);
+    ^
+3_Implementation/src/BankingSystem.h:34:5: warning: Obsolete function 'gets' called. It is recommended to use 'fgets' or 'gets_s' instead. [getsCalled]
+    gets(password);
+    ^
 3_Implementation/unity/unity.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 42 configurations. Use --force to check all configurations. [toomanyconfigs]
 
 ^
@@ -139,5 +145,5 @@ void UnityMessage(const char* msg, const UNITY_LINE_TYPE line)
 3_Implementation/unity/unity.c:1850:0: style: The function 'UnitySetTestFile' is never used. [unusedFunction]
 
 ^
-nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]
 
