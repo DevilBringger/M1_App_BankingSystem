@@ -1,5 +1,6 @@
 # Hi, I'm Swaraj! 👋
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/173db3ca8fa6490e8a5f25c077ee6350)](https://app.codacy.com/gh/DevilBringger/M1_App_BankingSystem?utm_source=github.com&utm_medium=referral&utm_content=DevilBringger/M1_App_BankingSystem&utm_campaign=Badge_Grade_Settings)
 [![cppcheck-action-test](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/cppcheck.yml)
 [![CI](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/Linux_c-cpp.yml)
 [![Linux C/C++ CI](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/Linux_C_CPP.yml/badge.svg)](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/Linux_C_CPP.yml)
