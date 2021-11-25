@@ -27,6 +27,7 @@ This banking system needs to login through username and password as
 *Username* **MyID**
 *password* **123**
 ## When
+For tracking or viewing banking transactions.
 ## Where
 It is done on Windows platform by using VsCode IDE.
 ## How
