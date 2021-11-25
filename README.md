@@ -1,7 +1,9 @@
 # Hi, I'm Swaraj! 👋
+## Code Quality Score
 [![Code Quality Score](https://www.code-inspector.com/project/12/score/svg)](https://www.code-inspector.com/public/project/12/POK/dashboard)
 [![cppcheck-action-test](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/cppcheck.yml)
 [![CI](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/Linux_c-cpp.yml)
+## Linux
 [![Linux C/C++ CI](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/Linux_C_CPP.yml/badge.svg)](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/Linux_C_CPP.yml)
 [![Unit testing C/C++ CI](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/unity.yml/badge.svg)](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/unity.yml)
 [![Windows C/C++ CI](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/Windows%20C_C++.yml/badge.svg)](https://github.com/DevilBringger/M1_App_BankingSystem/actions/workflows/Windows%20C_C++.yml)
