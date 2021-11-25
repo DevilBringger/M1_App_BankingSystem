@@ -17,6 +17,21 @@ It's totally free of Cost
 * Fund Transfer
 * Diposite
 ## SWOT Analysis
+## Strength
+1.	The strength of my project is its flexible.
+2.	It reduces man power.
+3.	Its cost effective and less time consuming.
+## Weakness
+1.	This project is only suitable for small banks.
+2.	It’s not fully automated.
+3.	Authentication need to be implemented
+##	Opportunity
+1.	First of all, I want to implement this project in small restaurants to prove myself then I can implement it largely by creating my own opportunity through them.
+2.	It will help both the customers and sellers.
+## Threats
+1.	If the application is not password protected any unauthorized person can get access to this application and can make miss use of it.
+
+
 ![](https://adamsmediagroup.com/wp-content/uploads/2018/07/SWOT-Analysis.jpg)
 ## 4W's and 1'H
 
